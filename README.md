@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RamirezJM
+- 👋 Hi, I’m @JMramirez
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full Stack Javascript
 - 💞️ I’m looking to collaborate on ...
